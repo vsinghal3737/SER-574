@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f6860a33c94408146a8a2d10cb0e8b80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hawkContainer: {fileID: 4805023231846711179, guid: d4fd7ba3ebb723c4f89940293eaf7cc6,
+      type: 3}
+  - DoveGameObeject: {fileID: 4276406469884561407, guid: 9bf0eb84dba2efd41911d95a2bc083a1,
+      type: 3}
+  - FoodGameObject: {fileID: 7220744707755393706, guid: b50d3a66092df5f418022c4d5459c955,
+      type: 3}
+  - nextButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

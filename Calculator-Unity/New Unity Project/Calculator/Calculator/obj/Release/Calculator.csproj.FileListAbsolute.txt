@@ -1,0 +1,8 @@
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\bin\Release\Calculator.dll
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\bin\Release\Calculator.pdb
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\bin\Release\UnityEngine.dll
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\bin\Release\UnityEngine.xml
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\obj\Release\Calculator.csproj.CopyComplete
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\obj\Release\Calculator.dll
+D:\IMP\Master's CS\ASU\Semester 4\SER 574\Projects\Calculator - Copy\New Unity Project\Calculator\Calculator\obj\Release\Calculator.pdb
